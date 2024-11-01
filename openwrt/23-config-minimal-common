@@ -88,14 +88,14 @@ CONFIG_LUCI_LANG_zh_Hans=y
 CONFIG_PACKAGE_luci-app-argon-config=y
 CONFIG_PACKAGE_luci-app-autoreboot=y
 CONFIG_PACKAGE_luci-app-cpufreq=y
-CONFIG_PACKAGE_luci-app-ddns-go=y
-CONFIG_PACKAGE_luci-app-diskman=y
-CONFIG_PACKAGE_luci-app-eqosplus=y
-CONFIG_PACKAGE_luci-app-hd-idle=y
-CONFIG_PACKAGE_luci-app-homeproxy=y
+CONFIG_PACKAGE_luci-app-ddns-go is not set
+CONFIG_PACKAGE_luci-app-diskman is not set
+CONFIG_PACKAGE_luci-app-eqosplus is not set
+CONFIG_PACKAGE_luci-app-hd-idle is not set
+CONFIG_PACKAGE_luci-app-homeproxy is not set
 CONFIG_PACKAGE_luci-app-mihomo=y
 CONFIG_PACKAGE_luci-app-ramfree=y
-CONFIG_PACKAGE_luci-app-samba4=y
+CONFIG_PACKAGE_luci-app-samba4 is not set
 CONFIG_PACKAGE_luci-app-socat=y
 CONFIG_PACKAGE_luci-app-ttyd=y
 CONFIG_PACKAGE_luci-app-upnp=y
