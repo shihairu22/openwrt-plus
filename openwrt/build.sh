@@ -32,7 +32,7 @@ ip_info=`curl -sk https://ip.cooluc.com`;
 if [ "$(whoami)" = "runner" ] && [ -n "$GITHUB_REPO" ]; then
     export mirror=raw.githubusercontent.com/$GITHUB_REPO/master
 else
-    export mirror=raw.githubusercontent.com/pmkol/openwrt-plus/master
+    export mirror=raw.githubusercontent.com/shihairu22/openwrt-plus/master
 fi
 
 # private gitea
